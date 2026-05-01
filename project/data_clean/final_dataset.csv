@@ -1,0 +1,42 @@
+district,avg_rainfall,accident_count,hospitals,health_risk,health_score,total_risk,risk_level,risk_index,recommendation
+adilabad,5.215496048825268,70,2,High,3,78.95690079023494,High,83.29268935155226,Immediate intervention needed
+bhadradri kothagudem,4.147478496349462,83,1,High,3,85.6705043007301,High,93.47873798265115,Immediate intervention needed
+hyderabad,2.5107333437661294,10,5,Medium,2,34.49785333124677,Low,15.838300839981114,Low priority - maintain conditions
+jagitial,5.329786213451613,27,4,Medium,2,42.43404275730968,Medium,27.879287668160313,Monitor and improve infrastructure
+jagtial,1.342839609677419,55,4,Medium,2,57.231432078064515,Medium,50.33026008541521,Monitor and improve infrastructure
+jangaon,2.2304710935483874,35,3,Medium,2,47.053905781290325,Medium,34.88866040781019,Monitor and improve infrastructure
+jangoan,3.515211026841642,40,2,High,3,64.29695779463167,High,61.050253966603606,Immediate intervention needed
+jayashankar bhupalapally,4.7177979212043,80,9,Low,1,54.05644041575914,Medium,45.513082629966874,Monitor and improve infrastructure
+jogulamba gadwal,1.9629297892983872,14,2,High,3,51.60741404214032,Medium,41.79735802670008,Monitor and improve infrastructure
+kamareddy,3.843239338034946,44,10,Low,1,36.23135213239301,Low,18.468408957450947,Low priority - maintain conditions
+karimnagar,3.6875027662096778,21,7,Low,1,24.762499446758063,Low,1.067576302355583,Low priority - maintain conditions
+khammam,3.1009672925107528,85,1,High,3,86.87980654149784,High,95.31352185317624,Immediate intervention needed
+kumuram bheem,1.185273796774193,63,1,High,3,76.26294524064517,High,79.20535202291153,Immediate intervention needed
+kumuram bheem asifabad,5.659891164457478,68,2,High,3,77.8680217671085,High,81.64061462512394,Immediate intervention needed
+mahabubabad,4.090039062986559,97,4,Medium,2,77.68199218740268,High,81.35836585324695,Immediate intervention needed
+mahabubnagar,2.759623367879032,30,4,Medium,2,44.448075326424195,Medium,30.93502869629029,Monitor and improve infrastructure
+mancherial,5.375154683198924,91,9,Low,1,59.424969063360216,Medium,53.65834974269201,Monitor and improve infrastructure
+medak,3.3229829087876346,84,10,Low,1,56.33540341824247,Medium,48.97078279582881,Monitor and improve infrastructure
+medchal malkajgiri,2.6567271961524925,91,1,High,3,89.96865456076951,High,100.0,Immediate intervention needed
+medchal-malkajgiri,2.2136162129032253,29,9,Low,1,29.057276757419356,Low,7.583720795808045,Low priority - maintain conditions
+mulugu,4.738447395387097,54,4,Medium,2,56.05231052092258,Medium,48.54126710954927,Monitor and improve infrastructure
+nagarkurnool,2.33214720897957,67,9,Low,1,48.03357055820408,Medium,36.37503252439683,Monitor and improve infrastructure
+nalgonda,2.205689391263441,19,7,Low,1,24.05886212174731,Low,0.0,Low priority - maintain conditions
+narayanpet,2.5407974280564516,17,4,Medium,2,37.99184051438871,Low,21.139466347935755,Low priority - maintain conditions
+nirmal,5.52050768364516,24,8,Low,1,25.895898463270967,Low,2.7871978859942987,Low priority - maintain conditions
+nizamabad,4.717082726295699,88,10,Low,1,58.05658345474086,Medium,51.5822005727711,Monitor and improve infrastructure
+peddapalli,3.8767196873924736,26,5,Medium,2,42.224656062521504,Medium,27.5616008919777,Monitor and improve infrastructure
+rajanna sircilla,4.1902722215835775,73,1,High,3,80.66194555568329,High,85.8796262881627,Immediate intervention needed
+ranga reddy,2.420502318595308,59,3,Medium,2,59.01589953628094,Medium,53.037699135336915,Monitor and improve infrastructure
+rangareddy,2.7172686129032257,76,7,Low,1,52.45654627741936,Medium,43.08568287776776,Monitor and improve infrastructure
+ranjanna sircilla,2.036391322580645,34,6,Low,1,31.59272173548387,Low,11.430561886091,Low priority - maintain conditions
+sangareddy,2.945654971862903,82,5,Medium,2,70.41086900562742,High,70.3264343105975,Immediate intervention needed
+siddipet,3.382049545215054,50,3,Medium,2,54.32359009095699,Medium,45.91840885739356,Monitor and improve infrastructure
+suryapet,2.778161058884409,68,4,Medium,2,63.44436778822312,High,59.7566828979383,Immediate intervention needed
+vikarabad,2.980190185077957,23,6,Low,1,25.903961962984408,Low,2.79943203120254,Low priority - maintain conditions
+wanaparthy,2.2248201009462365,83,2,High,3,86.05503597981075,High,94.06215914793007,Immediate intervention needed
+warangal (rural),1.894023387096774,56,2,High,3,72.62119532258065,High,73.67999716546184,Immediate intervention needed
+warangal (urban),1.846717841935484,44,7,Low,1,36.630656431612906,Low,19.074243514719985,Low priority - maintain conditions
+warangal rural,4.416141864214077,15,2,High,3,51.616771627157185,Medium,41.8115555907806,Monitor and improve infrastructure
+warangal urban,3.2725836586686214,78,6,Low,1,53.34548326826628,Medium,44.43440050826148,Monitor and improve infrastructure
+yadadri bhuvanagiri,3.034904731185484,77,6,Low,1,52.893019053762906,Medium,43.747910386293675,Monitor and improve infrastructure
