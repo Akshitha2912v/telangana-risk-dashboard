@@ -21,7 +21,7 @@ This project identifies high-risk districts in Telangana by integrating rainfall
 ---
 
 ## 📸 Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](project/dashboard.jpeg)
 
 ---
 
